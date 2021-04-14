@@ -1,7 +1,6 @@
 # Backend for chat application using socket.io
 
 You can test the live app [here](https://chattrio.netlify.app/). 
-The front end for this application can be found [here](https://github.com/AkileshAro/chat-client).
 
 ## Libraries used :
 - Express 
