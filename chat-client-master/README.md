@@ -1,8 +1,5 @@
 # Frontend for chat application using socket.io
-
-![Chattr](https://github.com/AkileshAro/chat-client/blob/master/img.png?raw=true)
 You can test the live app [here](https://chattrio.netlify.app/). 
-The back end for this application can be found [here](https://github.com/AkileshAro/chat-server/).
 
 ## Libraries Used : 
 - ReactJS
